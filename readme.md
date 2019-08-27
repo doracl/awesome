@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="400" src="https://cdn.rawgit.com/doracl/awesome/master/media/logo.svg" alt="awesome">
+	<img width="400" src="https://raw.githubusercontent.com/doracl/awesome/master/media/logo.svg" alt="awesome">
 	<br>
 	<br>
 	<br>
