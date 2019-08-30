@@ -36,6 +36,9 @@
 	- [233boy -键安装](https://github.com/google-wall/v2ray)
 	- [multi-v2ray](https://github.com/Jrohy/multi-v2ray)
 
+## 学习资料
+
+- [free programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 ## Table of Contents
 
