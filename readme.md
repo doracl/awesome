@@ -29,6 +29,13 @@
 
 - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms)
 
+## 自由上网
+
+- [v2ray](https://github.com/v2ray/v2ray-core)
+	- [带web界面的一键安装](https://github.com/FunctionClub/V2ray.Fun)
+	- [233boy -键安装](https://github.com/google-wall/v2ray)
+	- [multi-v2ray](https://github.com/Jrohy/multi-v2ray)
+
 
 ## Table of Contents
 
