@@ -39,6 +39,7 @@
 ## 学习资料
 
 - [free programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [network-programming with golang](https://github.com/tumregels/Network-Programming-with-Go)
 
 ## Table of Contents
 
