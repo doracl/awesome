@@ -54,6 +54,10 @@
 
 - [WebGL Fluid Simulation](https://github.com/xingag/spider_python)
 
+## 生活工具
+
+- [12306刷票](https://github.com/testerSunshine/12306)
+
 ## Contents
 
 - [Platforms](#platforms)
