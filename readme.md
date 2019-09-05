@@ -11,9 +11,10 @@
 
 > 开发过程中发现或使用的工具、经验、坑
 
-## API管理测试工具
+## 开发工具
 
-- [YAPI](https://github.com/YMFE/yapi)
+- [YAPI-API管理测试](https://github.com/YMFE/yapi)
+- [easy-mock-数据模拟](https://github.com/easy-mock/easy-mock)
 
 ## JVM运行期工具
 
