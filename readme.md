@@ -16,6 +16,10 @@
 - [YAPI-API管理测试](https://github.com/YMFE/yapi)
 - [easy-mock-数据模拟](https://github.com/easy-mock/easy-mock)
 
+## Kafka 相关
+
+- [debezium-CDC](https://github.com/debezium/debezium)
+
 ## JVM运行期工具
 
 - [Arthas诊断利器](https://github.com/alibaba/arthas)
