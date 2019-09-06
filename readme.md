@@ -20,6 +20,7 @@
 
 - [debezium-CDC](https://github.com/debezium/debezium)
 - [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) Apache Kafka running on Kubernetes
+- [Apache NiFi](https://github.com/apache/nifi) - powerful, and reliable system to process and distribute data
 
 ## JVM运行期工具
 
