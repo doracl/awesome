@@ -19,6 +19,7 @@
 ## Kafka 相关
 
 - [debezium-CDC](https://github.com/debezium/debezium)
+- [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) Apache Kafka running on Kubernetes
 
 ## JVM运行期工具
 
