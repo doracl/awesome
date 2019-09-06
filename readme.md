@@ -50,11 +50,20 @@
 - [free programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [network-programming with golang](https://github.com/tumregels/Network-Programming-with-Go)
 - [RealWorld Demo App](https://github.com/gothinkster/realworld)
+- [前端Web](https://github.com/qianguyihao/Web) - 小白入门
+
+## Python
+
+- [时时录音朗读](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 ## 爬虫
 
 - [二手房爬虫](https://github.com/xingag/spider_python)
 - [各大新闻热榜](https://github.com/tophubs/TopList)
+
+## 机器学习
+
+- [pytorch handbook](https://github.com/zergtant/pytorch-handbook) - Pytorch教程
 
 ## WebGL
 
