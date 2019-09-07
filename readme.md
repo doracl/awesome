@@ -15,6 +15,7 @@
 
 - [YAPI-API管理测试](https://github.com/YMFE/yapi)
 - [easy-mock-数据模拟](https://github.com/easy-mock/easy-mock)
+- [slack-alternative](https://github.com/mattermost/mattermost-server) - developed in golang and react
 
 ## Kafka 相关
 
@@ -25,10 +26,12 @@
 ## JVM运行期工具
 
 - [Arthas诊断利器](https://github.com/alibaba/arthas)
+- [Bistoury](https://github.com/qunarcorp/bistoury) - Bistoury是去哪儿网的java应用生产问题诊断工具
 
 ## 数据库相关
 
 - [MongoDB REST API](https://github.com/SoftInstigate/restheart)
+- [Postgresql Rest API](https://github.com/PostgREST/postgrest)
 
 ## .Net运行期Debug
 
@@ -47,6 +50,7 @@
 - [VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library
 - [vue-design](https://github.com/L-Chris/vue-design) - Be the best website visualization builder with Vue and Electron.
 - [D3.js](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML
+- [Next.js](https://github.com/zeit/next.js) - react server render framework
 
 ## 自由上网
 
@@ -61,6 +65,8 @@
 - [network-programming with golang](https://github.com/tumregels/Network-Programming-with-Go)
 - [RealWorld Demo App](https://github.com/gothinkster/realworld)
 - [前端Web](https://github.com/qianguyihao/Web) - 小白入门
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [google eng-practices](https://github.com/google/eng-practices)
 
 ## Python
 
@@ -82,6 +88,10 @@
 ## 生活工具
 
 - [12306刷票](https://github.com/testerSunshine/12306)
+
+## 系统工具
+
+- [windows 高级工具](https://github.com/microsoft/PowerToys)
 
 ## Contents
 
