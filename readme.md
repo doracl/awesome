@@ -23,6 +23,10 @@
 - [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) Apache Kafka running on Kubernetes
 - [Apache NiFi](https://github.com/apache/nifi) - powerful, and reliable system to process and distribute data
 
+## Graphql 相关
+
+- [graphql-engine](https://github.com/hasura/graphql-engine) - instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events
+
 ## JVM运行期工具
 
 - [Arthas诊断利器](https://github.com/alibaba/arthas)
