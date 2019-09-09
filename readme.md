@@ -26,6 +26,7 @@
 ## Graphql 相关
 
 - [graphql-engine](https://github.com/hasura/graphql-engine) - instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events
+	-[example](https://www.smashingmagazine.com/2019/03/realtime-charts-graphql-postgres/)
 
 ## JVM运行期工具
 
