@@ -76,6 +76,7 @@
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [google eng-practices](https://github.com/google/eng-practices)
 - [open source codebase](https://github.com/freeCodeCamp/freeCodeCamp) - Learn to code for free together with millions of people.
+- [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 
 ## Python
 
