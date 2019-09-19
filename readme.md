@@ -90,6 +90,7 @@
 ## 机器学习
 
 - [pytorch handbook](https://github.com/zergtant/pytorch-handbook) - Pytorch教程
+- [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材
 
 ## Nodejs
 
@@ -106,6 +107,10 @@
 ## 系统工具
 
 - [windows 高级工具](https://github.com/microsoft/PowerToys)
+
+## 开源项目
+
+- [java 电商](https://github.com/macrozheng/mall)
 
 ## Contents
 
