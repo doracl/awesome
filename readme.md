@@ -118,9 +118,7 @@
 
 - [java 电商](https://github.com/macrozheng/mall)
 
-
-
-> below from [sindresorhus](https://github.com/sindresorhus/awesome)
+# below from [sindresorhus](https://github.com/sindresorhus/awesome)
 ## Contents
 
 - [Platforms](#platforms)
