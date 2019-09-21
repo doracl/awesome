@@ -89,6 +89,10 @@
 - [open source codebase](https://github.com/freeCodeCamp/freeCodeCamp) - Learn to code for free together with millions of people.
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 
+## Go
+
+- [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+
 ## Python
 
 - [时时录音朗读](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
