@@ -45,11 +45,14 @@
 - [Bistoury](https://github.com/qunarcorp/bistoury) - Bistoury是去哪儿网的java应用生产问题诊断工具
 - [druid](https://github.com/alibaba/druid) - 阿里巴巴数据库事业部出品，为监控而生的数据库连接池
 
-## 数据库相关
+## 数据库、分布存储相关
 
 - [MongoDB REST API](https://github.com/SoftInstigate/restheart)
 - [Postgresql Rest API](https://github.com/PostgREST/postgrest)
 - [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)
+- [ceph](https://github.com/ceph/ceph) - distributed object, block, and file storage platform
+- [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes 
+
 
 ## .Net运行期Debug
 
