@@ -96,6 +96,7 @@
 ## Go
 
 - [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
+- [fasthttp](https://github.com/valyala/fasthttp) - net/http alternate
 
 ## Python
 
