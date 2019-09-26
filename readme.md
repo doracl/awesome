@@ -23,6 +23,11 @@
 
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services
 	- [kiali](https://github.com/kiali/kiali) - observability for the Istio service mesh
+- [podman home](https://github.com/containers/libpod) - container in pod
+
+## Docker
+
+- [The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker)
 
 ## 微服务生态
 
@@ -96,6 +101,8 @@
 - [google eng-practices](https://github.com/google/eng-practices)
 - [open source codebase](https://github.com/freeCodeCamp/freeCodeCamp) - Learn to code for free together with millions of people.
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
+- [冲出你的窗口，free ss/ssr/vmess分享、IPFS、暗网及蹭网教程、Git镜像等其他资源存储库](https://github.com/hoodiearon/w3-goto-world)
+- [security countermeasures when designing, testing, and releasing your API](https://github.com/shieldfy/API-Security-Checklist)
 
 ## Go
 
