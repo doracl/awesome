@@ -43,6 +43,7 @@
 ## Redis 相关
 
 - [fast redis proxy](https://github.com/twitter/twemproxy)
+- [java redis client](https://github.com/lettuce-io/lettuce-core)
 
 ## Graphql 相关
 
