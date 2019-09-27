@@ -115,6 +115,7 @@
 
 - [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [fasthttp](https://github.com/valyala/fasthttp) - net/http alternate
+- [golang project layout](https://github.com/golang-standards/project-layout)
 
 ## Python
 
@@ -133,6 +134,7 @@
 ## Nodejs
 
 - [koa2](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
+- [The largest Node.js best practices list](https://github.com/goldbergyoni/nodebestpractices)
 
 ## WebGL
 
