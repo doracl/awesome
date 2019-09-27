@@ -69,6 +69,10 @@
 
 - [dySpy](https://github.com/0xd4d/dnSpy)
 
+## 微信
+
+-[微信机器人](https://github.com/youfou/wxpy)
+
 ## 内网穿透
 
 - [frp](https://github.com/fatedier/frp)
