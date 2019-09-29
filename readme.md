@@ -110,6 +110,7 @@
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [冲出你的窗口，free ss/ssr/vmess分享、IPFS、暗网及蹭网教程、Git镜像等其他资源存储库](https://github.com/hoodiearon/w3-goto-world)
 - [security countermeasures when designing, testing, and releasing your API](https://github.com/shieldfy/API-Security-Checklist)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Go
 
