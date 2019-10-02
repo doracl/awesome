@@ -68,9 +68,9 @@
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes 
 
 
-## .Net运行期Debug
+## .Net
 
-- [dySpy](https://github.com/0xd4d/dnSpy)
+- [运行期Debug: dySpy](https://github.com/0xd4d/dnSpy)
 
 ## 微信
 
