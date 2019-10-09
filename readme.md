@@ -126,6 +126,7 @@
 ## Python
 
 - [时时录音朗读](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [python 3 HOME-ASSISTANT](https://github.com/home-assistant/home-assistant)
 
 ## 爬虫
 
