@@ -91,6 +91,7 @@
 - [D3.js](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML
 - [Next.js](https://github.com/zeit/next.js) - react server render framework
 - [Predictable state container for JavaScript apps](https://github.com/reduxjs/redux)
+- [vue 购物车](https://github.com/bailicangdu/vue2-elm)
 
 ## 自由上网
 
@@ -161,6 +162,7 @@
 ## 其它
 
 - [iptv](https://github.com/iptv-org/iptv)
+- [中文项目 Top](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 
 # below from [sindresorhus](https://github.com/sindresorhus/awesome)
 ## Contents
