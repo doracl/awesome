@@ -25,6 +25,7 @@
 	- [kiali](https://github.com/kiali/kiali) - observability for the Istio service mesh
 - [podman home](https://github.com/containers/libpod) - container in pod
 - [A service mesh for Kubernetes and beyond: linkerd](https://github.com/linkerd/linkerd2)
+- [k8s 本地运行代码](https://github.com/telepresenceio/telepresence)
 
 ## Docker
 
