@@ -138,10 +138,11 @@
 - [二手房爬虫](https://github.com/xingag/spider_python)
 - [各大新闻热榜](https://github.com/tophubs/TopList)
 
-## 机器学习
+## 机器学习&AI
 
 - [pytorch handbook](https://github.com/zergtant/pytorch-handbook) - Pytorch教程
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材
+- [人脸识别](https://github.com/ageitgey/face_recognition)
 
 ## Nodejs
 
