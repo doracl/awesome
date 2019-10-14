@@ -122,6 +122,7 @@
 - [security countermeasures when designing, testing, and releasing your API](https://github.com/shieldfy/API-Security-Checklist)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+- [go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)
 
 ## Go
 
