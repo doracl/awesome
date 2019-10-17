@@ -68,6 +68,9 @@
 - [ceph](https://github.com/ceph/ceph) - distributed object, block, and file storage platform
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes 
 
+## Google 
+
+- [Google-相似技术和服务的查询表](https://github.com/jhuangtw-dev/xg2xg)
 
 ## .Net
 
