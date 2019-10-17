@@ -78,7 +78,7 @@
 
 ## 微信
 
--[微信机器人](https://github.com/youfou/wxpy)
+- [微信机器人](https://github.com/youfou/wxpy)
 
 ## 内网穿透
 
