@@ -133,6 +133,9 @@
 - [fasthttp](https://github.com/valyala/fasthttp) - net/http alternate
 - [golang project layout](https://github.com/golang-standards/project-layout)
 - [a dataviz tool for golang developer](https://github.com/chenhg5/go-admin)
+- [oauth2](https://github.com/golang/oauth2)
+	- [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server)
+	- [go oauth2](https://github.com/go-oauth2/oauth2)
 
 ## Python
 
