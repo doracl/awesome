@@ -126,6 +126,7 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - [go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)
+- [开源开发项目](https://github.com/ripienaar/free-for-dev)
 
 ## Go
 
@@ -136,6 +137,7 @@
 - [oauth2](https://github.com/golang/oauth2)
 	- [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server)
 	- [go oauth2](https://github.com/go-oauth2/oauth2)
+- [portable, event-driven, runtime for building distributed applications across cloud and edge](https://github.com/dapr/dapr)
 
 ## Python
 
