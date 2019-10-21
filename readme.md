@@ -184,6 +184,7 @@
 - [iptv](https://github.com/iptv-org/iptv)
 - [中文项目 Top](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 - [不依赖google服务的youtube](https://github.com/yuliskov/SmartYouTubeTV)
+- [baidu](https://github.com/liuzhuoling2011/baidupcs-web/releases)
 
 ## 好玩的
 
