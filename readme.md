@@ -39,6 +39,7 @@
 - [腾讯 TARS 框架服务的运维管理平台](https://gitee.com/TarsCloud/TarsWeb)
 - [zipkin: 分布式跟踪系统](https://github.com/openzipkin/zipkin)
 - [Netty - an event-driven asynchronous network application framework](https://github.com/netty/netty)
+- [MVEL (MVFLEX Expression Language)](https://github.com/mvel/mvel)
 
 ## Kafka 相关
 
