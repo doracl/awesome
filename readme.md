@@ -72,6 +72,10 @@
 
 - [Google-相似技术和服务的查询表](https://github.com/jhuangtw-dev/xg2xg)
 
+## Java
+
+- [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
+
 ## .Net
 
 - [运行期Debug: dySpy](https://github.com/0xd4d/dnSpy)
