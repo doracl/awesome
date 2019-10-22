@@ -18,6 +18,7 @@
 - [slack-alternative](https://github.com/mattermost/mattermost-server) - developed in golang and react
 - [launch4j](http://launch4j.sourceforge.net/) - Cross-platform Java executable wrapper
 	- [gradle plugin](https://github.com/TheBoegl/gradle-launch4j)
+- [Project Lombok automatically plugs into your editor and build tools](https://github.com/rzwitserloot/lombok)
 
 ## Kubernetes
 
