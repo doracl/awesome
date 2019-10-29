@@ -114,6 +114,7 @@
 	- [flutter](https://github.com/flutter/flutter)
 - [dynamic forms](https://github.com/topics/dynamic-forms)
 	- [ngx-formly](https://github.com/ngx-formly/ngx-formly)
+	- [ng-dynamic-forms](https://github.com/udos86/ng-dynamic-forms)
 
 ## 自由上网
 
