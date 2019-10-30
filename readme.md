@@ -152,6 +152,7 @@
 	- [go-oauth2-server](https://github.com/RichardKnop/go-oauth2-server)
 	- [go oauth2](https://github.com/go-oauth2/oauth2)
 - [portable, event-driven, runtime for building distributed applications across cloud and edge](https://github.com/dapr/dapr)
+- [go-admin](https://github.com/GoAdminGroup/go-admin)
 
 ## Python
 
