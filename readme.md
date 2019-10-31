@@ -28,6 +28,7 @@
 - [podman home](https://github.com/containers/libpod) - container in pod
 - [A service mesh for Kubernetes and beyond: linkerd](https://github.com/linkerd/linkerd2)
 - [k8s 本地运行代码](https://github.com/telepresenceio/telepresence)
+- [部署和管理生产级别的 Kubernetes 集群](https://github.com/KubeOperator/KubeOperator)
 
 ## Docker
 
