@@ -88,6 +88,7 @@
 ## .Net
 
 - [运行期Debug: dySpy](https://github.com/0xd4d/dnSpy)
+- [cross-platform framework for building distributed applications with .NET](https://github.com/dotnet/orleans)
 
 ## 微信
 
