@@ -84,6 +84,9 @@
 ## Java
 
 - [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
+- [camel 规则引擎](https://github.com/apache/camel)
+- [drools](https://github.com/kiegroup/drools)
+	- [droolsjbpm](https://github.com/kiegroup/droolsjbpm-build-bootstrap)
 
 ## .Net
 
