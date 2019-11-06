@@ -151,6 +151,8 @@
 - [go入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN)
 - [开源开发项目](https://github.com/ripienaar/free-for-dev)
 - [go学习101](https://github.com/hoanhan101/ultimate-go)
+- [Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [大数据入门指南](https://github.com/heibaiying/BigData-Notes)
 
 ## Go
 
