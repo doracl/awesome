@@ -129,6 +129,7 @@
 	- [Vue的表单设计器](https://github.com/GavinZhuLei/vue-form-making)
 - [team communications](https://github.com/RocketChat/Rocket.Chat)
 - [Slack-alternative in Golang and React](https://github.com/mattermost/mattermost-server)
+- [An elegant dashboard](https://github.com/d2-projects/d2-admin)
 
 ## 自由上网
 
