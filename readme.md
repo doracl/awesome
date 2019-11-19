@@ -161,6 +161,7 @@
 - [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 - [Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [大数据入门指南](https://github.com/heibaiying/BigData-Notes)
+- [一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 
 ## Go
 
@@ -189,6 +190,7 @@
 
 - [pytorch handbook](https://github.com/zergtant/pytorch-handbook) - Pytorch教程
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材
+- [基于TensorFlow 2.0实战](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 - [人脸识别](https://github.com/ageitgey/face_recognition)
 
 ## Nodejs
