@@ -163,6 +163,7 @@
 - [Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [大数据入门指南](https://github.com/heibaiying/BigData-Notes)
 - [一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
+- [flink learning blog](https://github.com/zhisheng17/flink-learning)
 
 ## Go
 
