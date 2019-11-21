@@ -175,6 +175,7 @@
 - [portable, event-driven, runtime for building distributed applications across cloud and edge](https://github.com/dapr/dapr)
 - [go-admin](https://github.com/GoAdminGroup/go-admin)
 - [go mod 代理](https://github.com/goproxy/goproxy.cn)
+- [oauth server](https://github.com/ory/hydra)
 
 ## Python
 
