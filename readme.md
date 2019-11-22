@@ -132,6 +132,7 @@
 - [team communications](https://github.com/RocketChat/Rocket.Chat)
 - [Slack-alternative in Golang and React](https://github.com/mattermost/mattermost-server)
 - [An elegant dashboard](https://github.com/d2-projects/d2-admin)
+- [ Pluggable enterprise-level react application framework](https://github.com/umijs/umi)
 
 ## 自由上网
 
