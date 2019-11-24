@@ -95,6 +95,7 @@
 - [cross-platform framework for building distributed applications with .NET](https://github.com/dotnet/orleans)
 - [A high-performance, extensible, modular and cross-platform workflow engine](https://github.com/aelassas/Wexflow)
 - [WebWindows](https://github.com/SteveSandersonMS/WebWindow)
+- [dynamic execute scripts](https://github.com/dotnet/roslyn)
 
 ## 微信
 
