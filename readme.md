@@ -141,6 +141,8 @@
 	- [带web界面的一键安装](https://github.com/FunctionClub/V2ray.Fun)
 	- [233boy -键安装](https://github.com/google-wall/v2ray)
 	- [multi-v2ray](https://github.com/Jrohy/multi-v2ray)
+	- [v2rayui for mac](https://github.com/yanue/V2rayU)
+	- [v2rayx for mac](https://github.com/Cenmrev/V2RayX)
 - [bbr](https://github.com/teddysun/across)
 - [免费帐号](https://github.com/max2max/freess)
 
