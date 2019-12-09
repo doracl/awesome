@@ -26,11 +26,14 @@
 
 - [istio](https://github.com/istio/istio) - Connect, secure, control, and observe services
 	- [kiali](https://github.com/kiali/kiali) - observability for the Istio service mesh
+	- [An Envoy-Powered API Gateway](https://github.com/solo-io/gloo)
 - [podman home](https://github.com/containers/libpod) - container in pod
 - [A service mesh for Kubernetes and beyond: linkerd](https://github.com/linkerd/linkerd2)
 - [k8s 本地运行代码](https://github.com/telepresenceio/telepresence)
 - [部署和管理生产级别的 Kubernetes 集群](https://github.com/KubeOperator/KubeOperator)
 - [Deploy a Production Ready Kubernetes Cluster](https://github.com/kubernetes-sigs/kubespray)
+- [Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops)
+
 
 ## Docker
 
