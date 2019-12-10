@@ -53,6 +53,7 @@
 - [Netty - an event-driven asynchronous network application framework](https://github.com/netty/netty)
 - [MVEL (MVFLEX Expression Language)](https://github.com/mvel/mvel)
 - [A tool for secrets management, encryption as a service, and privileged access management](https://github.com/hashicorp/vault)
+- [distributed, highly available, and data center ](https://github.com/hashicorp/consul)
 
 ## Kafka 相关
 
