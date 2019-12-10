@@ -52,6 +52,7 @@
 - [zipkin: 分布式跟踪系统](https://github.com/openzipkin/zipkin)
 - [Netty - an event-driven asynchronous network application framework](https://github.com/netty/netty)
 - [MVEL (MVFLEX Expression Language)](https://github.com/mvel/mvel)
+- [A tool for secrets management, encryption as a service, and privileged access management](https://github.com/hashicorp/vault)
 
 ## Kafka 相关
 
@@ -82,6 +83,7 @@
 - [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)
 - [ceph](https://github.com/ceph/ceph) - distributed object, block, and file storage platform
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes 
+
 
 ## Google 
 
