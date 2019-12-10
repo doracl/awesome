@@ -33,6 +33,7 @@
 - [部署和管理生产级别的 Kubernetes 集群](https://github.com/KubeOperator/KubeOperator)
 - [Deploy a Production Ready Kubernetes Cluster](https://github.com/kubernetes-sigs/kubespray)
 - [Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops)
+- [Kubernetes-based, scale-to-zero, request-driven compute](https://github.com/knative/serving)
 
 
 ## Docker
