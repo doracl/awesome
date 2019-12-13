@@ -42,6 +42,7 @@
 - [ELK Docker](https://github.com/sherifabdlnaby/elastdocker)
 - [azure for china](https://github.com/Azure/container-service-for-azure-china)
 - [Visual Docker Container Managemen](https://github.com/docker/kitematic)
+- [docker slim](https://github.com/docker-slim/docker-slim)
 
 
 ## 微服务生态
@@ -155,6 +156,7 @@
 	- [v2rayx for mac](https://github.com/Cenmrev/V2RayX)
 - [bbr](https://github.com/teddysun/across)
 - [免费帐号](https://github.com/max2max/freess)
+- [google mirror by nginx](https://github.com/cuber/ngx_http_google_filter_module)
 
 ## 学习资料
 
