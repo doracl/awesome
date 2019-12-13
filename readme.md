@@ -230,6 +230,7 @@
 - [windows 高级工具](https://github.com/microsoft/PowerToys)
 - [win10 software 清理](https://github.com/Sycnex/Windows10Debloater)
 - [win10 feature & app clean](https://github.com/W4RH4WK/Debloat-Windows-10)
+- [windows installer clean](https://www.homedev.com.au/Free/PatchCleaner)
 - [Bash's powerful command line editing in cmd.exe](https://github.com/mridgers/clink)
 - [Mac OS 下开源项目](https://github.com/serhii-londar/open-source-mac-os-apps)
 
