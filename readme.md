@@ -205,6 +205,8 @@
 
 - [二手房爬虫](https://github.com/xingag/spider_python)
 - [各大新闻热榜](https://github.com/tophubs/TopList)
+- [Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
+- [Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
 
 ## 机器学习&AI
 
