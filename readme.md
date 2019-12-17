@@ -194,6 +194,7 @@
 - [go-admin](https://github.com/GoAdminGroup/go-admin)
 - [go mod 代理](https://github.com/goproxy/goproxy.cn)
 - [oauth server](https://github.com/ory/hydra)
+- [Generate type safe Go from SQL](https://github.com/kyleconroy/sqlc)
 
 ## Python
 
