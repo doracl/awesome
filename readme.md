@@ -98,6 +98,7 @@
 - [camel 规则引擎](https://github.com/apache/camel)
 - [drools](https://github.com/kiegroup/drools)
 	- [droolsjbpm](https://github.com/kiegroup/droolsjbpm-build-bootstrap)
+- [秒杀实现](https://github.com/qiurunze123/miaosha)
 
 ## .Net
 
