@@ -22,6 +22,7 @@
 - [Project Lombok automatically plugs into your editor and build tools](https://github.com/rzwitserloot/lombok)
 - [ Mysql sql审核平台](https://github.com/cookieY/Yearning)
 - [专业运维审计系统](https://github.com/jumpserver/jumpserver)
+- [fastest wiki](https://github.com/outline/outline)
 
 ## Kubernetes
 
