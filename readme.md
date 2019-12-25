@@ -116,6 +116,7 @@
 ## APP 相关
 
 - [一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手](https://github.com/didi/DoraemonKit)
+- [F-Droid 是一个对 Android 平台自由开源软件 (FOSS) 充满热情的机器人](https://f-droid.org/zh_Hans/packages/)
 
 ## 内网穿透
 
