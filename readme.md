@@ -182,6 +182,7 @@
 - [大数据入门指南](https://github.com/heibaiying/BigData-Notes)
 - [一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 - [flink learning blog](https://github.com/zhisheng17/flink-learning)
+- [大系统设计](https://github.com/donnemartin/system-design-primer)
 
 ## Go
 
