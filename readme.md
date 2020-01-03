@@ -119,6 +119,9 @@
 - [一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手](https://github.com/didi/DoraemonKit)
 - [F-Droid 是一个对 Android 平台自由开源软件 (FOSS) 充满热情的机器人](https://f-droid.org/zh_Hans/packages/)
 
+- [flutter](https://github.com/flutter/flutter)
+	- [非常漂亮的flutter模板](https://github.com/mitesh77/Best-Flutter-UI-Templates)
+
 ## 内网穿透
 
 - [frp](https://github.com/fatedier/frp)
@@ -150,6 +153,7 @@
 - [ Pluggable enterprise-level react application framework](https://github.com/umijs/umi)
 - [ UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! ](https://github.com/storybookjs/storybook)
 - [A secure JavaScript and TypeScript runtime ](https://github.com/denoland/deno)
+- [基于vue的后台管理系统](https://github.com/lin-xin/vue-manage-system)
 
 ## 自由上网
 
@@ -186,6 +190,7 @@
 - [一份涵盖大部分Java程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 - [flink learning blog](https://github.com/zhisheng17/flink-learning)
 - [大系统设计](https://github.com/donnemartin/system-design-primer)
+- [A curated list of engineering blogs](https://github.com/kilimchoi/engineering-blogs)
 
 ## Go
 
@@ -258,6 +263,7 @@
 - [baidu](https://github.com/liuzhuoling2011/baidupcs-web/releases)
 	- [aria2 docker](https://github.com/wahyd4/aria2-ariang-docker)
 - [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
+- [GitHub 上优秀的开源项目](https://github.com/GitHubDaily/GitHubDaily)
 
 ## 好玩的
 
