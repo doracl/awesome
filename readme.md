@@ -254,6 +254,8 @@
 - [leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) 
 - [live streaming and screen recording](https://github.com/obsproject/obs-studio)
 - [JAVA快速开发平台](https://github.com/zhangdaiscott/jeecg-boot)
+- [Open source Node.js Headless CMS to easily build customisable APIs](https://github.com/strapi/strapi)
+- [A React Framework for building extensible drag and drop page editors](https://github.com/prevwong/craft.js)
 
 ## 其它
 
