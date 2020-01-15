@@ -206,6 +206,7 @@
 - [go mod 代理](https://github.com/goproxy/goproxy.cn)
 - [oauth server](https://github.com/ory/hydra)
 - [Generate type safe Go from SQL](https://github.com/kyleconroy/sqlc)
+- [minio 文件服务器](https://github.com/minio/minio)
 
 ## Python
 
