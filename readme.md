@@ -252,6 +252,7 @@
 ## 开源项目
 
 - [java 电商](https://github.com/macrozheng/mall)
+- [新蜂商城](https://github.com/newbee-ltd/newbee-mall)
 - [leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) 
 - [live streaming and screen recording](https://github.com/obsproject/obs-studio)
 - [JAVA快速开发平台](https://github.com/zhangdaiscott/jeecg-boot)
