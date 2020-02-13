@@ -269,6 +269,8 @@
 	- [aria2 docker](https://github.com/wahyd4/aria2-ariang-docker)
 - [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
 - [GitHub 上优秀的开源项目](https://github.com/GitHubDaily/GitHubDaily)
+- [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
+
 
 ## 好玩的
 
