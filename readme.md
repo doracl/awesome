@@ -155,6 +155,7 @@
 - [ UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! ](https://github.com/storybookjs/storybook)
 - [A secure JavaScript and TypeScript runtime ](https://github.com/denoland/deno)
 - [基于vue的后台管理系统](https://github.com/lin-xin/vue-manage-system)
+- [A pure JavaScript CORS alternative,No need server config](https://github.com/jpillora/xdomain)
 
 ## 自由上网
 
