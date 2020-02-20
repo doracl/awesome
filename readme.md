@@ -192,6 +192,7 @@
 - [flink learning blog](https://github.com/zhisheng17/flink-learning)
 - [大系统设计](https://github.com/donnemartin/system-design-primer)
 - [A curated list of engineering blogs](https://github.com/kilimchoi/engineering-blogs)
+- [开发技巧](https://github.com/florinpop17/app-ideas)
 
 ## Go
 
@@ -208,6 +209,7 @@
 - [oauth server](https://github.com/ory/hydra)
 - [Generate type safe Go from SQL](https://github.com/kyleconroy/sqlc)
 - [minio 文件服务器](https://github.com/minio/minio)
+- [七天入门](https://github.com/geektutu/7days-golang)
 
 ## Python
 
@@ -270,6 +272,7 @@
 - [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
 - [GitHub 上优秀的开源项目](https://github.com/GitHubDaily/GitHubDaily)
 - [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
+- [google 产品的替代](https://github.com/tycrek/degoogle)
 
 
 ## 好玩的
