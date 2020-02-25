@@ -63,6 +63,7 @@
 - [debezium-CDC](https://github.com/debezium/debezium)
 - [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) Apache Kafka running on Kubernetes
 - [Apache NiFi](https://github.com/apache/nifi) - powerful, and reliable system to process and distribute data
+- [A real-time applications and data operation (DataOps) portal for Apache Kafka and Kubernetes](https://github.com/lensesio)
 
 ## Redis 相关
 
