@@ -217,6 +217,7 @@
 
 - [时时录音朗读](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [python 3 HOME-ASSISTANT](https://github.com/home-assistant/home-assistant)
+- [The Open edX platform, the software that powers edX!](https://github.com/edx/edx-platform)
 
 ## 爬虫
 
