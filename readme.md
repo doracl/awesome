@@ -92,6 +92,7 @@
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes 
 - [The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://github.com/metabase/metabase)
 - [High-performance MySQL proxy](https://github.com/sysown/proxysql)
+- [阿里巴巴 MySQL binlog 增量订阅&消费组件](https://github.com/alibaba/canal)
 
 
 ## Google 
