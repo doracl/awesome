@@ -94,6 +94,7 @@
 - [High-performance MySQL proxy](https://github.com/sysown/proxysql)
 - [阿里巴巴 MySQL binlog 增量订阅&消费组件](https://github.com/alibaba/canal)
 - [Version control for your database](https://github.com/flyway/flyway)
+- [小米：SQL Optimizer And Rewriter](https://github.com/XiaoMi/soar)
 
 
 ## Google 
