@@ -23,6 +23,7 @@
 - [ Mysql sql审核平台](https://github.com/cookieY/Yearning)
 - [专业运维审计系统](https://github.com/jumpserver/jumpserver)
 - [fastest wiki](https://github.com/outline/outline)
+- [Netdata is distributed, real-time performance and health monitoring for systems and applications](https://github.com/netdata/netdata)
 
 ## Kubernetes
 
