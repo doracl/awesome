@@ -163,6 +163,7 @@
 - [A secure JavaScript and TypeScript runtime ](https://github.com/denoland/deno)
 - [基于vue的后台管理系统](https://github.com/lin-xin/vue-manage-system)
 - [A pure JavaScript CORS alternative,No need server config](https://github.com/jpillora/xdomain)
+- [Svelte is a new way to build web applications](https://github.com/sveltejs/svelte)
 
 ## 自由上网
 
