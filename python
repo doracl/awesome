@@ -129,6 +129,7 @@
 
 - [flutter](https://github.com/flutter/flutter)
 	- [非常漂亮的flutter模板](https://github.com/mitesh77/Best-Flutter-UI-Templates)
+	- [flutter 学习资源](https://github.com/londonappbrewery/Flutter-Course-Resources)
 
 ## 内网穿透
 
@@ -226,6 +227,7 @@
 - [时时录音朗读](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [python 3 HOME-ASSISTANT](https://github.com/home-assistant/home-assistant)
 - [The Open edX platform, the software that powers edX!](https://github.com/edx/edx-platform)
+- [人脸识别](https://github.com/dlunion/DBFace)
 
 ## 爬虫
 
@@ -233,6 +235,7 @@
 - [各大新闻热榜](https://github.com/tophubs/TopList)
 - [Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
 - [Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
+- [爬虫例子](https://github.com/shengqiangzhang/examples-of-web-crawlers)
 
 ## 机器学习&AI
 
