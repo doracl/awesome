@@ -287,6 +287,7 @@
 - [GitHub 上优秀的开源项目](https://github.com/GitHubDaily/GitHubDaily)
 - [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
 - [google 产品的替代](https://github.com/tycrek/degoogle)
+- [Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application](https://github.com/apache/incubator-superset)
 
 
 ## 好玩的
