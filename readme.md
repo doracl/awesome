@@ -24,6 +24,7 @@
 - [专业运维审计系统](https://github.com/jumpserver/jumpserver)
 - [fastest wiki](https://github.com/outline/outline)
 - [Netdata is distributed, real-time performance and health monitoring for systems and applications](https://github.com/netdata/netdata)
+- [Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything](https://github.com/monitoror/monitoror)
 
 ## Kubernetes
 
@@ -238,6 +239,7 @@
 - [Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
 - [Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
 - [爬虫例子](https://github.com/shengqiangzhang/examples-of-web-crawlers)
+- [Distributed web crawler admin platform for spiders management regardless of languages and frameworks](https://github.com/crawlab-team/crawlab)
 
 ## 机器学习&AI
 
