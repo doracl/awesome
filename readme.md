@@ -168,6 +168,7 @@
 - [基于vue的后台管理系统](https://github.com/lin-xin/vue-manage-system)
 - [A pure JavaScript CORS alternative,No need server config](https://github.com/jpillora/xdomain)
 - [Svelte is a new way to build web applications](https://github.com/sveltejs/svelte)
+- [A high quality UI Toolkit built on Vue.js 2.0](https://github.com/iview/iview)
 
 ## 自由上网
 
