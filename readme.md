@@ -170,6 +170,7 @@
 - [Svelte is a new way to build web applications](https://github.com/sveltejs/svelte)
 - [A high quality UI Toolkit built on Vue.js 2.0](https://github.com/iview/iview)
 - [High performance JavaScript templating engine](https://github.com/aui/art-template)
+- [A modern JavaScript utility library delivering modularity, performance, & extras:lodash](https://github.com/lodash/lodash)
 
 ## 自由上网
 
