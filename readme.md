@@ -169,6 +169,7 @@
 - [A pure JavaScript CORS alternative,No need server config](https://github.com/jpillora/xdomain)
 - [Svelte is a new way to build web applications](https://github.com/sveltejs/svelte)
 - [A high quality UI Toolkit built on Vue.js 2.0](https://github.com/iview/iview)
+- [High performance JavaScript templating engine](https://github.com/aui/art-template)
 
 ## 自由上网
 
