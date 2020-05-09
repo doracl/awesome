@@ -63,6 +63,7 @@
 - [MVEL (MVFLEX Expression Language)](https://github.com/mvel/mvel)
 - [A tool for secrets management, encryption as a service, and privileged access management](https://github.com/hashicorp/vault)
 - [distributed, highly available, and data center ](https://github.com/hashicorp/consul)
+- [Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.](https://github.com/alibaba/spring-cloud-alibaba)
 
 ## Kafka 相关
 
@@ -112,6 +113,7 @@
 - [drools](https://github.com/kiegroup/drools)
 	- [droolsjbpm](https://github.com/kiegroup/droolsjbpm-build-bootstrap)
 - [秒杀实现](https://github.com/qiurunze123/miaosha)
+- [快速、简单避免OOM的java处理Excel工具](https://github.com/alibaba/easyexcel)
 
 ## .Net
 
@@ -170,7 +172,9 @@
 - [Svelte is a new way to build web applications](https://github.com/sveltejs/svelte)
 - [A high quality UI Toolkit built on Vue.js 2.0](https://github.com/iview/iview)
 - [High performance JavaScript templating engine](https://github.com/aui/art-template)
-- [A modern JavaScript utility library delivering modularity, performance, & extras:lodash](https://github.com/lodash/lodash)
+- [A modern JavaScript utility library delivering modularity, performance, & extras:lodash](https://github.com/lodash/lodash)https://github.com/denoland/deno
+- [A secure JavaScript and TypeScript runtime https://deno.land/](https://github.com/denoland/deno)
+- [vue-element-admin 是一个后台前端解决方案](https://github.com/PanJiaChen/vue-element-admin)
 
 ## 自由上网
 
