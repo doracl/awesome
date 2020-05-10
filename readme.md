@@ -247,6 +247,7 @@
 - [Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
 - [爬虫例子](https://github.com/shengqiangzhang/examples-of-web-crawlers)
 - [Distributed web crawler admin platform for spiders management regardless of languages and frameworks](https://github.com/crawlab-team/crawlab)
+- [爬虫合集](https://github.com/facert/awesome-spider)
 
 ## 机器学习&AI
 
