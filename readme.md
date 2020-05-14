@@ -25,6 +25,7 @@
 - [fastest wiki](https://github.com/outline/outline)
 - [Netdata is distributed, real-time performance and health monitoring for systems and applications](https://github.com/netdata/netdata)
 - [Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything](https://github.com/monitoror/monitoror)
+- [自动化运维平台](https://github.com/openspug/spug)
 
 ## Kubernetes
 
