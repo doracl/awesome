@@ -42,6 +42,7 @@
 - [Kubernetes as a Service](https://github.com/oneinfra/oneinfra)
 - [logs](https://github.com/grafana/loki)
 - [The GitOps Kubernetes operator](https://github.com/fluxcd/flux)
+- [Customization of kubernetes YAML configurations](https://github.com/kubernetes-sigs/kustomize)
 
 ## Serverless
 - [Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
