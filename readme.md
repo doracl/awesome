@@ -262,6 +262,7 @@
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材
 - [基于TensorFlow 2.0实战](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 - [人脸识别](https://github.com/ageitgey/face_recognition)
+- [DeepFaceLab is the leading software for creating deepfakes.](https://github.com/iperov/DeepFaceLab)
 
 ## Nodejs
 
