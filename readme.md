@@ -41,6 +41,7 @@
 - [Kubernetes-based, scale-to-zero, request-driven compute](https://github.com/knative/serving)
 - [Kubernetes as a Service](https://github.com/oneinfra/oneinfra)
 - [logs](https://github.com/grafana/loki)
+- [The GitOps Kubernetes operator](https://github.com/fluxcd/flux)
 
 ## Serverless
 - [Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
