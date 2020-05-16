@@ -241,6 +241,7 @@
 - [七天入门](https://github.com/geektutu/7days-golang)
 - [SeaweedFS is a simple and highly scalable distributed file system, to store and serve billions of files fast!](https://github.com/chrislusf/seaweedfs
 - [The world’s fastest framework for building websites](https://github.com/gohugoio/hugo)
+- [casbin权限库](https://github.com/casbin/casbin)
 
 ## Python
 
