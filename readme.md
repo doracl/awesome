@@ -89,9 +89,7 @@
 
 - [Arthas诊断利器](https://github.com/alibaba/arthas)
 - [Bistoury](https://github.com/qunarcorp/bistoury) - Bistoury是去哪儿网的java应用生产问题诊断工具
-- [druid](https://github.com/alibaba/druid) - 
-
-巴巴数据库事业部出品，为监控而生的数据库连接池
+- [druid](https://github.com/alibaba/druid) - 巴巴数据库事业部出品，为监控而生的数据库连接池
 
 ## 数据库、分布存储相关
 
