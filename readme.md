@@ -194,6 +194,7 @@
 - [bbr](https://github.com/teddysun/across)
 - [免费帐号](https://github.com/max2max/freess)
 - [google mirror by nginx](https://github.com/cuber/ngx_http_google_filter_module)
+- [chromeGo](https://github.com/bannedbook/fanqiang)
 
 ## 学习资料
 
