@@ -95,6 +95,7 @@
 
 - [MongoDB REST API](https://github.com/SoftInstigate/restheart)
 - [Postgresql Rest API](https://github.com/PostgREST/postgrest)
+	- [Starter Kit and tooling for authoring REST API backends with PostgREST](https://github.com/subzerocloud/postgrest-starter-kit)
 - [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)
 - [ceph](https://github.com/ceph/ceph) - distributed object, block, and file storage platform
 - [rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes 
