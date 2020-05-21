@@ -142,6 +142,7 @@
 - [flutter](https://github.com/flutter/flutter)
 	- [非常漂亮的flutter模板](https://github.com/mitesh77/Best-Flutter-UI-Templates)
 	- [flutter 学习资源](https://github.com/londonappbrewery/Flutter-Course-Resources)
+	- [Basic Flutter apps, for flutter devs.](https://github.com/iampawan/FlutterExampleApps)
 
 ## 内网穿透
 
@@ -221,6 +222,7 @@
 - [大系统设计](https://github.com/donnemartin/system-design-primer)
 - [A curated list of engineering blogs](https://github.com/kilimchoi/engineering-blogs)
 - [开发技巧](https://github.com/florinpop17/app-ideas)
+- [Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process)
 
 ## Go
 
