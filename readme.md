@@ -241,6 +241,7 @@
 - [oauth server](https://github.com/ory/hydra)
 - [Generate type safe Go from SQL](https://github.com/kyleconroy/sqlc)
 - [minio 文件服务器](https://github.com/minio/minio)
+- [支持多家云存储的云盘系统](https://github.com/cloudreve/Cloudreve)
 - [七天入门](https://github.com/geektutu/7days-golang)
 - [SeaweedFS is a simple and highly scalable distributed file system, to store and serve billions of files fast!](https://github.com/chrislusf/seaweedfs
 - [The world’s fastest framework for building websites](https://github.com/gohugoio/hugo)
