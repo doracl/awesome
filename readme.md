@@ -104,6 +104,7 @@
 - [阿里巴巴 MySQL binlog 增量订阅&消费组件](https://github.com/alibaba/canal)
 - [Version control for your database](https://github.com/flyway/flyway)
 - [小米：SQL Optimizer And Rewriter](https://github.com/XiaoMi/soar)
+- [Apache Druid: a high performance real-time analytics database](https://github.com/apache/druid/)
 
 
 ## Google 
