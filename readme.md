@@ -43,6 +43,7 @@
 - [logs](https://github.com/grafana/loki)
 - [The GitOps Kubernetes operator](https://github.com/fluxcd/flux)
 - [Customization of kubernetes YAML configurations](https://github.com/kubernetes-sigs/kustomize)
+- [kubernetes IDE](https://github.com/lensapp/lens)
 
 ## Serverless
 - [Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
@@ -248,6 +249,7 @@
 - [The world’s fastest framework for building websites](https://github.com/gohugoio/hugo)
 - [casbin权限库](https://github.com/casbin/casbin)
 - [Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
+- [golang 算法](https://github.com/greyireland/algorithm-pattern)
 
 ## Python
 
