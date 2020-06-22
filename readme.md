@@ -230,6 +230,7 @@
 - [A curated list of engineering blogs](https://github.com/kilimchoi/engineering-blogs)
 - [开发技巧](https://github.com/florinpop17/app-ideas)
 - [Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process)
+- [A Collection of application ideas which can be used to improve your coding skills.](https://github.com/florinpop17/app-ideas)
 
 ## Go
 
@@ -253,6 +254,7 @@
 - [casbin权限库](https://github.com/casbin/casbin)
 - [Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
 - [golang 算法](https://github.com/greyireland/algorithm-pattern)
+- [An open source re-implementation of Diablo 2](https://github.com/OpenDiablo2/OpenDiablo2)
 
 ## Python
 
@@ -260,6 +262,9 @@
 - [python 3 HOME-ASSISTANT](https://github.com/home-assistant/home-assistant)
 - [The Open edX platform, the software that powers edX!](https://github.com/edx/edx-platform)
 - [人脸识别](https://github.com/dlunion/DBFace)
+- [Python实践](https://github.com/dabeaz-course/practical-python)
+- [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
+- []()
 
 ## 爬虫
 
