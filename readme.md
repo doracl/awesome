@@ -288,6 +288,7 @@
 - [基于TensorFlow 2.0实战](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 - [人脸识别](https://github.com/ageitgey/face_recognition)
 - [DeepFaceLab is the leading software for creating deepfakes.](https://github.com/iperov/DeepFaceLab)
+- [Kubeflow](https://github.com/kubeflow/kubeflow)
 
 ## Nodejs
 
