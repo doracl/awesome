@@ -44,6 +44,7 @@
 - [The GitOps Kubernetes operator](https://github.com/fluxcd/flux)
 - [Customization of kubernetes YAML configurations](https://github.com/kubernetes-sigs/kustomize)
 - [kubernetes IDE](https://github.com/lensapp/lens)
+- [kustomize lets you customize raw, template-free YAML files for multiple purposes](https://github.com/kubernetes-sigs/kustomize/)
 
 ## Serverless
 - [Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
