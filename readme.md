@@ -327,6 +327,7 @@
 - [A React Framework for building extensible drag and drop page editors](https://github.com/prevwong/craft.js)
 - [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. ](https://github.com/antlr/antlr4)
 - [跨平台桌面端视频资源播放器.简洁无广告.免费高颜值](https://github.com/Hunlongyu/ZY-Player)
+- [一个基于 Electron + Vue 开发的音乐软件](https://github.com/lyswhut/lx-music-desktop)
 
 ## 其它
 
