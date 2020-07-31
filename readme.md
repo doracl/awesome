@@ -70,6 +70,7 @@
 - [A tool for secrets management, encryption as a service, and privileged access management](https://github.com/hashicorp/vault)
 - [distributed, highly available, and data center ](https://github.com/hashicorp/consul)
 - [Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.](https://github.com/alibaba/spring-cloud-alibaba)
+- [Seata is an easy-to-use, high-performance, open source distributed transaction solution](https://github.com/seata/seata)
 
 ## Kafka 相关
 
