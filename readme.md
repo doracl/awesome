@@ -268,6 +268,7 @@
 - [Open Source Continuous File Synchronization](https://github.com/syncthing/syncthing)
 - [golang 算法](https://github.com/greyireland/algorithm-pattern)
 - [An open source re-implementation of Diablo 2](https://github.com/OpenDiablo2/OpenDiablo2)
+- [Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具](https://github.com/go-kratos/kratos)
 
 ## Python
 
