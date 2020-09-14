@@ -27,6 +27,8 @@
 - [Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything](https://github.com/monitoror/monitoror)
 - [自动化运维平台](https://github.com/openspug/spug)
 - [load testing tool, using Go and JavaScript](https://github.com/loadimpact/k6)
+- [idea 插件]
+	- [Lombok]
 
 ## Kubernetes
 
@@ -128,6 +130,9 @@
 ## 阿里
 
 - [阿里集成测试平台](https://github.com/alibaba/intelligent-test-platform)
+- [动态服务发现、配置管理和服务管理平台](https://github.com/alibaba/nacos)
+- [面向云原生微服务的高可用流控防护组件](https://github.com/alibaba/Sentinel)
+
 
 ## Java
 
