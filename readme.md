@@ -143,6 +143,7 @@
 - [秒杀实现](https://github.com/qiurunze123/miaosha)
 - [快速、简单避免OOM的java处理Excel工具](https://github.com/alibaba/easyexcel)
 - [An powerful enhanced toolkit of MyBatis for simplify development](https://github.com/baomidou/mybatis-plus)
+- [SaaS型微服务快速开发平台](https://github.com/zuihou/zuihou-admin-cloud)
 
 ## .Net
 
