@@ -365,6 +365,7 @@
 
 - [GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
 - [在线vscode](https://www.gitpod.io/)
+- [Flink 学习](https://github.com/zhisheng17/flink-learning)
 
 # below from [sindresorhus](https://github.com/sindresorhus/awesome)
 ## Contents
