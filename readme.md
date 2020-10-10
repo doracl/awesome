@@ -29,6 +29,7 @@
 - [load testing tool, using Go and JavaScript](https://github.com/loadimpact/k6)
 - [idea 插件]
 	- [Lombok]
+- [A tool for secrets management, encryption as a service, and privileged access management](https://github.com/hashicorp/vault)
 
 ## Kubernetes
 
@@ -59,6 +60,8 @@
 - [azure for china](https://github.com/Azure/container-service-for-azure-china)
 - [Visual Docker Container Managemen](https://github.com/docker/kitematic)
 - [docker slim](https://github.com/docker-slim/docker-slim)
+- [Vulnerability Static Analysis for Containers](https://github.com/quay/clair)
+- [A tool that facilitates building OCI images](https://github.com/containers/buildah)
 
 
 ## 微服务生态
@@ -74,6 +77,7 @@
 - [Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.](https://github.com/alibaba/spring-cloud-alibaba)
 - [Seata is an easy-to-use, high-performance, open source distributed transaction solution](https://github.com/seata/seata)
 - [监视和诊断基于微服务的分布式系统](https://github.com/jaegertracing/jaeger)
+- [golang web + rpc framework for microservices](https://github.com/tal-tech/go-zero)
 
 ## Kafka 相关
 
@@ -277,6 +281,8 @@
 - [golang 算法](https://github.com/greyireland/algorithm-pattern)
 - [An open source re-implementation of Diablo 2](https://github.com/OpenDiablo2/OpenDiablo2)
 - [Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具](https://github.com/go-kratos/kratos)
+- [工作流引擎、动态表单](https://github.com/lanyulei/ferry)
+- [Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdata/influxdb)
 
 ## Python
 
@@ -286,7 +292,7 @@
 - [人脸识别](https://github.com/dlunion/DBFace)
 - [Python实践](https://github.com/dabeaz-course/practical-python)
 - [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
-- []()
+
 
 ## 爬虫
 
