@@ -150,6 +150,8 @@
 - [An powerful enhanced toolkit of MyBatis for simplify development](https://github.com/baomidou/mybatis-plus)
 - [SaaS型微服务快速开发平台](https://github.com/zuihou/zuihou-admin-cloud)
 - [EL-ADMIN 后台管理系统](https://github.com/elunez/eladmin)
+- [JEECG BOOT 低代码开发平台](https://github.com/zhangdaiscott/jeecg-boot)
+- [中文Java不错项目](https://github.com/Snailclimb/awesome-java)
 
 ## .Net
 
