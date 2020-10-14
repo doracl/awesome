@@ -79,6 +79,10 @@
 - [监视和诊断基于微服务的分布式系统](https://github.com/jaegertracing/jaeger)
 - [golang web + rpc framework for microservices](https://github.com/tal-tech/go-zero)
 
+## 性能相关
+
+- [OpenResty - Turning Nginx into a Full-Fledged Scriptable Web Platform](https://github.com/openresty/openresty)
+
 ## Kafka 相关
 
 - [debezium-CDC](https://github.com/debezium/debezium)
