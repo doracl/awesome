@@ -180,6 +180,8 @@
 	- [flutter 学习资源](https://github.com/londonappbrewery/Flutter-Course-Resources)
 	- [Basic Flutter apps, for flutter devs.](https://github.com/iampawan/FlutterExampleApps)
 
+- [一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手](https://github.com/didi/DoraemonKit)
+
 ## 内网穿透
 
 - [frp](https://github.com/fatedier/frp)
