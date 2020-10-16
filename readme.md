@@ -128,6 +128,10 @@
 - [数据可视化](https://github.com/edp963/davinci).
 - [ClickHouse is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse)
 
+## 数据库
+
+- [Greenplum Database (GPDB) is an advanced, fully featured, open source data warehouse, based on PostgreSQL](https://github.com/greenplum-db/gpdb)
+
 ## Google 
 
 - [Google-相似技术和服务的查询表](https://github.com/jhuangtw-dev/xg2xg)
