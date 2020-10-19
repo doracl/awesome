@@ -131,6 +131,8 @@
 ## 数据库
 
 - [Greenplum Database (GPDB) is an advanced, fully featured, open source data warehouse, based on PostgreSQL](https://github.com/greenplum-db/gpdb)
+- [postgres 数据库相关](https://github.com/postgres/postgres)
+	- [pg_stat_statements extension](https://github.com/kirs/pg_web_stats)
 
 ## Google 
 
