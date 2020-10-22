@@ -299,6 +299,7 @@
 - [Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具](https://github.com/go-kratos/kratos)
 - [工作流引擎、动态表单](https://github.com/lanyulei/ferry)
 - [Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdata/influxdb)
+- [表达式计算](https://github.com/antonmedv/expr)
 
 ## Python
 
