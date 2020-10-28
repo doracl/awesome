@@ -163,6 +163,7 @@
 - [JEECG BOOT 低代码开发平台](https://github.com/zhangdaiscott/jeecg-boot)
 - [中文Java不错项目](https://github.com/Snailclimb/awesome-java)
 - [分布式任务调度平台XXL-JOB](https://github.com/xuxueli/xxl-job)
+- [JHipster is a development platform](https://github.com/jhipster/generator-jhipster)
 
 ## .Net
 
