@@ -127,6 +127,7 @@
 
 - [数据可视化](https://github.com/edp963/davinci).
 - [ClickHouse is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse)
+- [The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://github.com/metabase/metabase)
 
 ## 数据库
 
