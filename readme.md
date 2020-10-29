@@ -30,6 +30,7 @@
 - [idea 插件]
 	- [Lombok]
 - [A tool for secrets management, encryption as a service, and privileged access management](https://github.com/hashicorp/vault)
+- [一站式的开源企业级持续测试平台](https://github.com/metersphere/metersphere)
 
 ## Kubernetes
 
