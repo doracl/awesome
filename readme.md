@@ -130,6 +130,7 @@
 - [ClickHouse is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse)
 - [The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://github.com/metabase/metabase)
 - [Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data](https://github.com/getredash/redash)
+- [ClickHouse is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse)
 
 ## 数据库
 
