@@ -168,6 +168,7 @@
 - [中文Java不错项目](https://github.com/Snailclimb/awesome-java)
 - [分布式任务调度平台XXL-JOB](https://github.com/xuxueli/xxl-job)
 - [JHipster is a development platform](https://github.com/jhipster/generator-jhipster)
+- [轻量级业务中台开发框架，中台架构的顶层设计和完整解决方案](https://github.com/funkygao/cp-ddd-framework)
 
 ## .Net
 
