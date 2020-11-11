@@ -91,6 +91,9 @@
 - [Apache NiFi](https://github.com/apache/nifi) - powerful, and reliable system to process and distribute data
 - [A real-time applications and data operation (DataOps) portal for Apache Kafka and Kubernetes](https://github.com/lensesio)
 
+## Flink 相关
+- [Ververica - Original Creators of Apache Flink (R)](https://github.com/ververica)
+
 ## Redis 相关
 
 - [fast redis proxy](https://github.com/twitter/twemproxy)
