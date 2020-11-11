@@ -123,6 +123,7 @@
 - [Version control for your database](https://github.com/flyway/flyway)
 - [小米：SQL Optimizer And Rewriter](https://github.com/XiaoMi/soar)
 - [Apache Druid: a high performance real-time analytics database](https://github.com/apache/druid/)
+- [Free universal database tool and SQL client](https://github.com/dbeaver/dbeaver)
 
 ## 数据中台
 
