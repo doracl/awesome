@@ -142,6 +142,11 @@
 - [postgres 数据库相关](https://github.com/postgres/postgres)
 	- [pg_stat_statements extension](https://github.com/kirs/pg_web_stats)
 
+## Api Server
+- [Parse Server is an open source backend that can be deployed to any infrastructure that can run Node.js](https://github.com/parse-community/parse-server)
+- [Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT](https://github.com/kuzzleio/kuzzle)
+- [Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers](https://github.com/appwrite/appwrite)
+
 ## Google 
 
 - [Google-相似技术和服务的查询表](https://github.com/jhuangtw-dev/xg2xg)
