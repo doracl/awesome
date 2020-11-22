@@ -31,6 +31,7 @@
 	- [Lombok]
 - [A tool for secrets management, encryption as a service, and privileged access management](https://github.com/hashicorp/vault)
 - [一站式的开源企业级持续测试平台](https://github.com/metersphere/metersphere)
+- [后端接口和文档自动化，前端(客户端) 定制返回 JSON 的数据和结构](https://github.com/Tencent/APIJSON)
 
 ## Kubernetes
 
