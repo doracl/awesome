@@ -349,6 +349,10 @@
 - [DeepFaceLab is the leading software for creating deepfakes.](https://github.com/iperov/DeepFaceLab)
 - [Kubeflow](https://github.com/kubeflow/kubeflow)
 
+## IOT物联网
+- [About
+Open-source IoT Platform - Device management, data collection, processing and visualization.](https://github.com/thingsboard/thingsboard)
+
 ## Nodejs
 
 - [koa2](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
