@@ -96,6 +96,7 @@
 
 ## Flink 相关
 - [Ververica - Original Creators of Apache Flink (R)](https://github.com/ververica)
+- [基于flink的数据同步](https://github.com/DTStack/flinkx)
 
 ## Redis 相关
 
