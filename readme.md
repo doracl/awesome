@@ -34,6 +34,7 @@
 - [后端接口和文档自动化，前端(客户端) 定制返回 JSON 的数据和结构](https://github.com/Tencent/APIJSON)
 - [a fast, scalable, multi-language and extensible build system](https://github.com/bazelbuild/bazel)
 - [Ghidra is a software reverse engineering (SRE) framework:软件逆向工程](https://github.com/NationalSecurityAgency/ghidra)
+- [java 开发工具集合](https://github.com/looly/hutool)
 
 ## Kubernetes
 
