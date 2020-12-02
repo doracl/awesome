@@ -83,6 +83,7 @@
 - [Seata is an easy-to-use, high-performance, open source distributed transaction solution](https://github.com/seata/seata)
 - [监视和诊断基于微服务的分布式系统](https://github.com/jaegertracing/jaeger)
 - [golang web + rpc framework for microservices](https://github.com/tal-tech/go-zero)
+- [skywalking 微服务性能 监控](https://github.com/apache/skywalking)
 
 ## 性能相关
 
@@ -294,6 +295,7 @@
 - [开发技巧](https://github.com/florinpop17/app-ideas)
 - [Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process)
 - [A Collection of application ideas which can be used to improve your coding skills.](https://github.com/florinpop17/app-ideas)
+- [java 入门学习](https://github.com/eugenp/tutorials)
 
 ## Go
 
