@@ -184,6 +184,7 @@
 - [分布式任务调度平台XXL-JOB](https://github.com/xuxueli/xxl-job)
 - [JHipster is a development platform](https://github.com/jhipster/generator-jhipster)
 - [轻量级业务中台开发框架，中台架构的顶层设计和完整解决方案](https://github.com/funkygao/cp-ddd-framework)
+- [easy rules](https://github.com/j-easy/easy-rules)
 
 ## .Net
 
@@ -394,6 +395,7 @@ Open-source IoT Platform - Device management, data collection, processing and vi
 - [跨平台桌面端视频资源播放器.简洁无广告.免费高颜值](https://github.com/Hunlongyu/ZY-Player)
 - [一个基于 Electron + Vue 开发的音乐软件](https://github.com/lyswhut/lx-music-desktop)
 - [微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发](https://github.com/lenve/vhr)
+- [又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端](https://github.com/linlinjava/litemall)
 
 ## 其它
 
@@ -414,7 +416,7 @@ Open-source IoT Platform - Device management, data collection, processing and vi
 
 - [好耶 是女装](https://github.com/komeiji-satori/Dress)
 - [最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词](https://github.com/chinese-poetry/chinese-poetry)
-
+- [小说](https://github.com/201206030/fiction_house)
 ## 入门
 
 - [GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
