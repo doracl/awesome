@@ -257,6 +257,7 @@
 - [vue-element-admin 是一个后台前端解决方案](https://github.com/PanJiaChen/vue-element-admin)
 - ["The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more ](https://github.com/gothinkster/realworld)
 - [Open source Node.js Headless CMS to easily build customisable APIs](https://github.com/strapi/strapi)
+- [open-source electronics platform](https://github.com/arduino/Arduino)
 ## 自由上网
 
 - [v2ray](https://github.com/v2ray/v2ray-core)
