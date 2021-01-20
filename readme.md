@@ -146,6 +146,7 @@
 - [The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://github.com/metabase/metabase)
 - [Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data](https://github.com/getredash/redash)
 - [ClickHouse is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse)
+- [Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime](https://github.com/directus/directus)
 
 ## 数据库
 
