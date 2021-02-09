@@ -38,6 +38,9 @@
 - [a fast, scalable, multi-language and extensible build system](https://github.com/bazelbuild/bazel)
 - [Ghidra is a software reverse engineering (SRE) framework:软件逆向工程](https://github.com/NationalSecurityAgency/ghidra)
 - [java 开发工具集合](https://github.com/looly/hutool)
+- [web hook]
+	- [a lightweight incoming webhook server to run shell commands](https://github.com/adnanh/webhook)
+	- [Turn any program that uses STDIN/STDOUT into a WebSocket server](https://github.com/joewalnes/websocketd)
 
 ## Kubernetes
 
