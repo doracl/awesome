@@ -205,6 +205,7 @@
 - [WebWindows](https://github.com/SteveSandersonMS/WebWindow)
 - [dynamic execute scripts](https://github.com/dotnet/roslyn)
 - [ASP.NET Boilerplate - Web Application Framework](https://github.com/aspnetboilerplate/aspnetboilerplate)
+- [maui](https://github.com/dotnet/maui)
 
 ## 微信
 
