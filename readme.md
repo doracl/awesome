@@ -155,6 +155,7 @@
 - [Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data](https://github.com/getredash/redash)
 - [ClickHouse is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse)
 - [Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime](https://github.com/directus/directus)
+- [数据同步](https://github.com/airbytehq/airbyte)
 
 ## 数据库
 
