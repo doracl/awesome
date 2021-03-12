@@ -156,6 +156,7 @@
 - [ClickHouse is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse)
 - [Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime](https://github.com/directus/directus)
 - [数据同步](https://github.com/airbytehq/airbyte)
+- [阿里巴巴离线数据同步](https://github.com/alibaba/DataX)
 - [The official home of the Presto distributed SQL query engine for big data](https://github.com/prestodb/presto)
 
 ## 数据库
