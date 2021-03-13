@@ -375,6 +375,7 @@
 - [人脸识别](https://github.com/ageitgey/face_recognition)
 - [DeepFaceLab is the leading software for creating deepfakes.](https://github.com/iperov/DeepFaceLab)
 - [Kubeflow](https://github.com/kubeflow/kubeflow)
+- [华为MindSpore](https://github.com/mindspore-ai/mindspore)
 
 ## IOT物联网
 - [About
