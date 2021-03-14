@@ -185,7 +185,6 @@
 - [动态服务发现、配置管理和服务管理平台](https://github.com/alibaba/nacos)
 - [面向云原生微服务的高可用流控防护组件](https://github.com/alibaba/Sentinel)
 
-
 ## Java
 
 - [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
@@ -203,6 +202,7 @@
 - [JHipster is a development platform](https://github.com/jhipster/generator-jhipster)
 - [轻量级业务中台开发框架，中台架构的顶层设计和完整解决方案](https://github.com/funkygao/cp-ddd-framework)
 - [easy rules](https://github.com/j-easy/easy-rules)
+- [轻量即时通讯](https://gitee.com/xchao/j-im)
 
 ## .Net
 
