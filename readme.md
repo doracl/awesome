@@ -346,6 +346,7 @@
 - [Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdata/influxdb)
 - [表达式计算](https://github.com/antonmedv/expr)
 - [Express inspired web framework written in Go](https://github.com/gofiber/fiber)
+- [tinode chat](https://github.com/tinode/chat)
 
 ## Python
 
