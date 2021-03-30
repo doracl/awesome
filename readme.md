@@ -204,6 +204,7 @@
 - [轻量级业务中台开发框架，中台架构的顶层设计和完整解决方案](https://github.com/funkygao/cp-ddd-framework)
 - [easy rules](https://github.com/j-easy/easy-rules)
 - [轻量即时通讯](https://gitee.com/xchao/j-im)
+- [service proxy: soap to rest](https://github.com/membrane/service-proxy)
 
 ## .Net
 
