@@ -111,6 +111,7 @@
 - [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) Apache Kafka running on Kubernetes
 - [Apache NiFi](https://github.com/apache/nifi) - powerful, and reliable system to process and distribute data
 - [A real-time applications and data operation (DataOps) portal for Apache Kafka and Kubernetes](https://github.com/lensesio)
+- [Apache RocketMQ](https://github.com/apache/rocketmq)
 
 ## Flink 相关
 - [Ververica - Original Creators of Apache Flink (R)](https://github.com/ververica)
