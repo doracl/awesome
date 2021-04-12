@@ -127,6 +127,7 @@
 
 - [graphql-engine](https://github.com/hasura/graphql-engine) - instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events
 	- [example](https://www.smashingmagazine.com/2019/03/realtime-charts-graphql-postgres/)
+- [Native GraphQL Database with graph backend](https://github.com/dgraph-io/dgraph)
 
 ## JVM运行期工具
 
@@ -355,6 +356,8 @@
 - [表达式计算](https://github.com/antonmedv/expr)
 - [Express inspired web framework written in Go](https://github.com/gofiber/fiber)
 - [tinode chat](https://github.com/tinode/chat)
+- [Fast, secure, efficient backup program](https://github.com/restic/restic)
+- [An entity framework for Go](https://github.com/ent/ent)
 
 ## Python
 
