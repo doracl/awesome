@@ -152,6 +152,10 @@
 - [小米：SQL Optimizer And Rewriter](https://github.com/XiaoMi/soar)
 - [Apache Druid: a high performance real-time analytics database](https://github.com/apache/druid/)
 - [Free universal database tool and SQL client](https://github.com/dbeaver/dbeaver)
+- [Greenplum Database (GPDB) is an advanced, fully featured, open source data warehouse, based on PostgreSQL](https://github.com/greenplum-db/gpdb)
+- [postgres 数据库相关](https://github.com/postgres/postgres)
+	- [pg_stat_statements extension](https://github.com/kirs/pg_web_stats)
+- [Vitess is a database clustering system for horizontal scaling of MySQL](https://github.com/vitessio/vitess)
 
 ## 数据中台
 
@@ -168,9 +172,6 @@
 
 ## 数据库
 
-- [Greenplum Database (GPDB) is an advanced, fully featured, open source data warehouse, based on PostgreSQL](https://github.com/greenplum-db/gpdb)
-- [postgres 数据库相关](https://github.com/postgres/postgres)
-	- [pg_stat_statements extension](https://github.com/kirs/pg_web_stats)
 
 ## Api Server
 - [Parse Server is an open source backend that can be deployed to any infrastructure that can run Node.js](https://github.com/parse-community/parse-server)
