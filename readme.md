@@ -117,6 +117,7 @@
 ## Flink 相关
 - [Ververica - Original Creators of Apache Flink (R)](https://github.com/ververica)
 - [基于flink的数据同步](https://github.com/DTStack/flinkx)
+- [基于Flink实现的商品实时推荐系统](https://github.com/CheckChe0803/flink-recommandSystem-demo)
 
 ## Redis 相关
 
