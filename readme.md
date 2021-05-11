@@ -64,6 +64,7 @@
 - [kustomize lets you customize raw, template-free YAML files for multiple purposes](https://github.com/kubernetes-sigs/kustomize/)
 - [k9s cli k8s 集群管理工具](https://github.com/derailed/k9s)
 - [KubeVela:A Highly Extensible Platform Engine based on Kubernetes and Open Application Model.](https://github.com/oam-dev/kubevela)
+- [Kuboard 是基于 Kubernetes 的微服务管理界面](https://github.com/eip-work/kuboard-press)
 
 ## Serverless
 - [Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
