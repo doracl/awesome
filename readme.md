@@ -162,6 +162,7 @@
 ## 数据中台
 
 - [数据可视化](https://github.com/edp963/davinci)
+- [一款免费的数据可视化工具，报表与大屏设计](https://github.com/zhangdaiscott/JimuReport)
 - [DataX集成可视化页面](https://github.com/WeiYe-Jing/datax-web)
 - [ClickHouse is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse)
 - [The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://github.com/metabase/metabase)
