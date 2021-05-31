@@ -53,6 +53,7 @@
 - [A service mesh for Kubernetes and beyond: linkerd](https://github.com/linkerd/linkerd2)
 - [k8s 本地运行代码](https://github.com/telepresenceio/telepresence)
 - [部署和管理生产级别的 Kubernetes 集群](https://github.com/KubeOperator/KubeOperator)
+- [Kubernetes container platform tailored for multi-cloud and multi-cluster management](https://github.com/kubesphere/kubesphere)
 - [Deploy a Production Ready Kubernetes Cluster](https://github.com/kubernetes-sigs/kubespray)
 - [Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops)
 - [Kubernetes-based, scale-to-zero, request-driven compute](https://github.com/knative/serving)
@@ -65,6 +66,8 @@
 - [k9s cli k8s 集群管理工具](https://github.com/derailed/k9s)
 - [KubeVela:A Highly Extensible Platform Engine based on Kubernetes and Open Application Model.](https://github.com/oam-dev/kubevela)
 - [Kuboard 是基于 Kubernetes 的微服务管理界面](https://github.com/eip-work/kuboard-press)
+- [Kubernetes IN Docker - local clusters for testing Kubernetes](https://github.com/kubernetes-sigs/kind/)
+- [一条命令离线安装高可用kubernetes](https://github.com/fanux/sealos)
 
 ## Serverless
 - [Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
