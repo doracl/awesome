@@ -109,6 +109,9 @@
 
 - [Pulumi - Modern Infrastructure as Code. Any cloud, any language](https://github.com/pulumi/pulumi)
 
+## 日志收集
+
+- [支持Springboot，基于注解的可使用变量、可以自定义函数的通用操作日志组件](https://github.com/mouzt/mzt-biz-log)
 
 ## Kafka 相关
 
