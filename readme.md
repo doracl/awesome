@@ -222,6 +222,7 @@
 - [功能最全的Java权限认证框架](https://github.com/dromara/sa-token)
 - [Apache Wicket - Component-based Java web framework](https://github.com/apache/wicket)
 - [企业单点登录全集Enterprise Single Sign On for all earthlings and beyond](https://github.com/apereo/cas)
+- [文件文档在线预览](https://github.com/kekingcn/kkFileView)
 
 ## .Net
 
