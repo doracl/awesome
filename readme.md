@@ -168,6 +168,7 @@
 
 ## 数据中台
 
+- [Apache Superset is a Data Visualization and Data Exploration Platform](https://github.com/apache/superset)
 - [数据可视化](https://github.com/edp963/davinci)
 - [一款免费的数据可视化工具，报表与大屏设计](https://github.com/zhangdaiscott/JimuReport)
 - [DataX集成可视化页面](https://github.com/WeiYe-Jing/datax-web)
