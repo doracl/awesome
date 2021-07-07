@@ -100,6 +100,7 @@
 - [skywalking 微服务性能 监控](https://github.com/apache/skywalking)
 - [High-Performance Java API Gateway: Soul](https://github.com/apache/incubator-shenyu)
 - [Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge](https://github.com/dapr/dapr)
+- [Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.](https://github.com/GoogleCloudPlatform/microservices-demo)
 
 ## 性能相关
 
