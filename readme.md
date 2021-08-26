@@ -375,6 +375,7 @@
 - [Fast, secure, efficient backup program](https://github.com/restic/restic)
 - [An entity framework for Go](https://github.com/ent/ent)
 - [network scan](https://github.com/v-byte-cpu/sx)
+- [self-hosted git server](https://github.com/go-gitea/gitea)
 
 ## Python
 
