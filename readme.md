@@ -386,6 +386,9 @@
 - [Python实践](https://github.com/dabeaz-course/practical-python)
 - [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
 
+## VR
+
+- [VR Awesome](https://github.com/Vytek/VR-Awesome)
 
 ## 爬虫
 
