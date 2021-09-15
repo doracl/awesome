@@ -387,6 +387,7 @@
 - [人脸识别](https://github.com/dlunion/DBFace)
 - [Python实践](https://github.com/dabeaz-course/practical-python)
 - [A collective list of free APIs for use in software and web development.](https://github.com/public-apis/public-apis)
+- [FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://github.com/tiangolo/fastapi)
 
 ## VR
 
