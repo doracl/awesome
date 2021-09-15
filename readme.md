@@ -227,6 +227,7 @@
 - [Apache Wicket - Component-based Java web framework](https://github.com/apache/wicket)
 - [企业单点登录全集Enterprise Single Sign On for all earthlings and beyond](https://github.com/apereo/cas)
 - [文件文档在线预览](https://github.com/kekingcn/kkFileView)
+- [Java后端架构师必修](https://github.com/xingshaocheng/architect-awesome)
 
 ## .Net
 
