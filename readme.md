@@ -70,6 +70,7 @@
 - [Kuboard 是基于 Kubernetes 的微服务管理界面](https://github.com/eip-work/kuboard-press)
 - [Kubernetes IN Docker - local clusters for testing Kubernetes](https://github.com/kubernetes-sigs/kind/)
 - [一条命令离线安装高可用kubernetes](https://github.com/fanux/sealos)
+- [Complete container management platform](https://github.com/rancher/rancher)
 
 ## Serverless
 - [Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
