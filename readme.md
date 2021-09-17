@@ -264,6 +264,7 @@
 - [An entity framework for Go](https://github.com/ent/ent)
 - [network scan](https://github.com/v-byte-cpu/sx)
 - [self-hosted git server](https://github.com/go-gitea/gitea)
+- [The Single Sign-On Multi-Factor portal for web apps](https://github.com/authelia/authelia)
 
 ## .Net
 
