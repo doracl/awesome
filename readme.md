@@ -47,6 +47,7 @@
 - [文档网站：类似看云](https://github.com/docsifyjs/docsify/)
 - [txt 转 UML](https://github.com/plantuml/plantuml)
 - [nginx 管理GUI](https://github.com/onlyGuo/nginx-gui)
+- [Connect APIs, remarkably fast. Free for developers](https://github.com/PipedreamHQ/pipedream)
 
 ## Kubernetes
 
