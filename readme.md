@@ -276,6 +276,7 @@
 - [GO Simple Tunnel - a simple tunnel written in golang](https://github.com/ginuerzh/gost)
 - [GoFrame是一款模块化、高性能、企业级的Go基础开发框架](https://github.com/gogf/gf)
 - [A Docker-powered stateless API for PDF files](https://github.com/gotenberg/gotenberg)
+- [Fast and simple video download library and CLI tool written in Go](https://github.com/iawia002/annie)
 
 
 ## .Net
