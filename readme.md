@@ -447,6 +447,10 @@
 
 - [12306刷票](https://github.com/testerSunshine/12306)
 
+## Productivity
+
+- [适用于开发人员的笔记管理](https://github.com/BoostIO/BoostNote-App)
+
 ## 系统工具
 
 - [windows 高级工具](https://github.com/microsoft/PowerToys)
