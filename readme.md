@@ -151,6 +151,10 @@
 	- [example](https://www.smashingmagazine.com/2019/03/realtime-charts-graphql-postgres/)
 - [Native GraphQL Database with graph backend](https://github.com/dgraph-io/dgraph)
 
+## Message
+
+- [A realtime distributed messaging platform](https://github.com/nsqio/nsq)
+
 ## JVM运行期工具
 
 - [Arthas诊断利器](https://github.com/alibaba/arthas)
@@ -177,6 +181,7 @@
 - [postgres 数据库相关](https://github.com/postgres/postgres)
 	- [pg_stat_statements extension](https://github.com/kirs/pg_web_stats)
 - [Vitess is a database clustering system for horizontal scaling of MySQL](https://github.com/vitessio/vitess)
+- [Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.](https://github.com/CrunchyData/postgres-operator)
 
 ## 数据中台
 
