@@ -76,6 +76,7 @@
 - [一条命令离线安装高可用kubernetes](https://github.com/fanux/sealos)
 - [Complete container management platform](https://github.com/rancher/rancher)
 - [Kubernetes中文指南/云原生应用架构实践手册 -](https://github.com/rootsongjc/kubernetes-handbook)
+- [OpenFaaS - Serverless Functions Made Simple](https://github.com/openfaas/faas)
 
 ## Serverless
 - [Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
