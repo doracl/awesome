@@ -440,6 +440,7 @@
 
 - [About Open-source IoT Platform - Device management, data collection, processing and visualization.](https://github.com/thingsboard/thingsboard)
 - [etLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。](https://github.com/jetlinks/jetlinks-community)
+- [PlatformIO is a professional collaborative platform for embedded development ](https://github.com/platformio/platformio-core)
 
 ## Nodejs
 
