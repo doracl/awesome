@@ -296,6 +296,11 @@
 - [ASP.NET Boilerplate - Web Application Framework](https://github.com/aspnetboilerplate/aspnetboilerplate)
 - [maui](https://github.com/dotnet/maui)
 
+## Web
+
+- [State machines and statecharts for the modern web.](https://github.com/statelyai/xstate)
+
+
 ## 微信
 
 - [微信机器人](https://github.com/youfou/wxpy)
