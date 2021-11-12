@@ -135,6 +135,7 @@
 - [Apache NiFi](https://github.com/apache/nifi) - powerful, and reliable system to process and distribute data
 - [A real-time applications and data operation (DataOps) portal for Apache Kafka and Kubernetes](https://github.com/lensesio)
 - [Apache RocketMQ](https://github.com/apache/rocketmq)
+- [Streaming reference architecture for ETL with Kafka and Kafka-Connect](https://github.com/lensesio/stream-reactor)
 
 ## Flink 相关
 - [Ververica - Original Creators of Apache Flink (R)](https://github.com/ververica)
