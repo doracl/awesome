@@ -95,7 +95,8 @@
 ## 系统架构
 
 - [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
-- [It基础架构编排工具](https://github.com/hashicorp/terraform)
+- [IT基础架构编排工具](https://github.com/hashicorp/terraform)
+- [基础设施即代码：Pulumi - Modern Infrastructure as Code. Any cloud, any language](https://github.com/pulumi/pulumi)
 
 ## 微服务生态
 
