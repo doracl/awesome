@@ -118,6 +118,10 @@
 - [Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications](https://github.com/hashicorp/nomad)
 
+##  Domain-driven design (DDD) and Event
+- [highly concurrent, distributed, and resilient message-driven applications on the JVM](https://github.com/akka/akka)
+- [Framework for Evolutionary Event-Driven Microservices on the JVM](https://github.com/AxonFramework/AxonFramework)
+
 ## 性能相关
 
 - [OpenResty - Turning Nginx into a Full-Fledged Scriptable Web Platform](https://github.com/openresty/openresty)
