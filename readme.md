@@ -212,6 +212,7 @@
 - [Parse Server is an open source backend that can be deployed to any infrastructure that can run Node.js](https://github.com/parse-community/parse-server)
 - [Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT](https://github.com/kuzzleio/kuzzle)
 - [Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers](https://github.com/appwrite/appwrite)
+- [an open source Firebase alternative. We're building the features of Firebase using enterprise-grade open source tools](https://github.com/supabase/supabase)
 
 ## Google 
 
