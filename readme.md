@@ -153,6 +153,7 @@
 - [fast redis proxy](https://github.com/twitter/twemproxy)
 - [java redis client](https://github.com/lettuce-io/lettuce-core)
 - [Redis Java client with features of In-Memory Data Grid](https://github.com/redisson/redisson)
+- [RedisJSON - a JSON data type for Redis](https://github.com/RedisJSON/RedisJSON)
 
 ## Graphql 相关
 
