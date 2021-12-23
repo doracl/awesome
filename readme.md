@@ -374,6 +374,7 @@
 - ["The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more ](https://github.com/gothinkster/realworld)
 - [Open source Node.js Headless CMS to easily build customisable APIs](https://github.com/strapi/strapi)
 - [open-source electronics platform](https://github.com/arduino/Arduino)
+- [Karma: Spectacular Test Runner for JavaScript](https://github.com/karma-runner/karma)
 
 ## 自由上网
 
