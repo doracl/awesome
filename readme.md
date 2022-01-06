@@ -133,6 +133,7 @@
 ## 日志收集
 
 - [支持Springboot，基于注解的可使用变量、可以自定义函数的通用操作日志组件](https://github.com/mouzt/mzt-biz-log)
+- [指标收集:The plugin-driven server agent for collecting & reporting metrics](https://github.com/influxdata/telegraf)
 
 ## Kafka 相关
 
