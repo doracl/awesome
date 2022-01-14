@@ -503,6 +503,7 @@
 - [微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发](https://github.com/lenve/vhr)
 - [又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端](https://github.com/linlinjava/litemall)
 - [白板](https://github.com/lovasoa/whitebophir)
+- [文件浏览器](https://github.com/filebrowser/filebrowser)
 
 ## 其它
 
