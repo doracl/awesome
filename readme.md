@@ -308,6 +308,11 @@
 - [ASP.NET Boilerplate - Web Application Framework](https://github.com/aspnetboilerplate/aspnetboilerplate)
 - [maui](https://github.com/dotnet/maui)
 
+## 规则
+
+- [Expression language for Go](https://github.com/antonmedv/expr)
+- [drools](https://github.com/kiegroup/drools)
+	- [droolsjbpm](https://github.com/kiegroup/droolsjbpm-build-bootstrap)
 ## Web
 
 - [State machines and statecharts for the modern web.](https://github.com/statelyai/xstate)
