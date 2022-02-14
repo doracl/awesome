@@ -383,6 +383,7 @@
 - [Open source Node.js Headless CMS to easily build customisable APIs](https://github.com/strapi/strapi)
 - [open-source electronics platform](https://github.com/arduino/Arduino)
 - [Karma: Spectacular Test Runner for JavaScript](https://github.com/karma-runner/karma)
+- [一款现代化的开源博客/CMS系统:halo](https://github.com/halo-dev/halo)
 
 ## 自由上网
 
