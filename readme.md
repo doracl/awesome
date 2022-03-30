@@ -297,7 +297,7 @@
 - [A Docker-powered stateless API for PDF files](https://github.com/gotenberg/gotenberg)
 - [Fast and simple video download library and CLI tool written in Go](https://github.com/iawia002/annie)
 - [unioffice is a library for creation of Office Open XML documents (.docx, .xlsx and .pptx)](https://github.com/unidoc/unioffice)
-
+- [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
 
 ## .Net
 
