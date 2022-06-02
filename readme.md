@@ -50,6 +50,7 @@
 - [Connect APIs, remarkably fast. Free for developers](https://github.com/PipedreamHQ/pipedream)
 - [Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.](https://github.com/mattermost/mattermost-server)
 - [A simple and elegant markdown editor, available for Linux, macOS and Windows](https://github.com/marktext/marktext)
+- [A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
 
 ## Kubernetes
 
