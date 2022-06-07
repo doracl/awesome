@@ -51,6 +51,7 @@
 - [Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.](https://github.com/mattermost/mattermost-server)
 - [A simple and elegant markdown editor, available for Linux, macOS and Windows](https://github.com/marktext/marktext)
 - [A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
+- [OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec](https://github.com/OpenAPITools/openapi-generator)
 
 ## Kubernetes
 
