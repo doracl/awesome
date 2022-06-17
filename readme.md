@@ -222,6 +222,8 @@
 - [Apache Beam is a unified programming model for Batch and Streaming](https://github.com/apache/beam)
 - [Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL](https://github.com/trinodb/trino)
 - [The Metadata Platform for the Modern Data Stack](https://github.com/datahub-project/datahub)
+- [Apache NiFi is an easy to use, powerful, and reliable system to process and distribute data](https://github.com/apache/nifi)
+- [Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines](https://github.com/kestra-io/kestra)
 
 ## Api Server
 - [Parse Server is an open source backend that can be deployed to any infrastructure that can run Node.js](https://github.com/parse-community/parse-server)
