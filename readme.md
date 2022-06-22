@@ -466,6 +466,7 @@
 - [爬虫例子](https://github.com/shengqiangzhang/examples-of-web-crawlers)
 - [Distributed web crawler admin platform for spiders management regardless of languages and frameworks](https://github.com/crawlab-team/crawlab)
 - [爬虫合集](https://github.com/facert/awesome-spider)
+- [阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。](https://github.com/gedoor/legado)
 
 ## 机器学习&AI
 
