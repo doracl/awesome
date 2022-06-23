@@ -271,6 +271,7 @@
 - [文件文档在线预览](https://github.com/kekingcn/kkFileView)
 - [Java后端架构师必修](https://github.com/xingshaocheng/architect-awesome)
 - [An annotation processor for generating type-safe bean mappers](https://github.com/mapstruct/mapstruct)
+- [从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等](https://github.com/doocs/source-code-hunter)
 
 ## Go
 
@@ -442,6 +443,7 @@
 - [java 入门学习](https://github.com/eugenp/tutorials)
 - [经典技术书籍推荐，持续更新...](https://github.com/royeo/awesome-programming-books)
 - [面试题](https://github.com/souyunku/DevBooks)
+- [COLA: Clean Object-oriented & Layered Architecture](https://github.com/alibaba/COLA)
 
 ## Python
 
