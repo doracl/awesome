@@ -273,6 +273,7 @@
 - [Java后端架构师必修](https://github.com/xingshaocheng/architect-awesome)
 - [An annotation processor for generating type-safe bean mappers](https://github.com/mapstruct/mapstruct)
 - [从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等](https://github.com/doocs/source-code-hunter)
+- [JSON to JSON transformation library written in Java](https://github.com/bazaarvoice/jolt)
 
 ## Go
 
