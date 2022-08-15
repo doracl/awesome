@@ -53,6 +53,7 @@
 - [A simple and elegant markdown editor, available for Linux, macOS and Windows](https://github.com/marktext/marktext)
 - [A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
 - [OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec](https://github.com/OpenAPITools/openapi-generator)
+- [Open Source Identity and Access Management For Modern Applications and Services](https://github.com/keycloak/keycloak)
 
 ## Kubernetes
 
