@@ -318,6 +318,7 @@
 - [Fast and simple video download library and CLI tool written in Go](https://github.com/iawia002/annie)
 - [unioffice is a library for creation of Office Open XML documents (.docx, .xlsx and .pptx)](https://github.com/unidoc/unioffice)
 - [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
+- [Information gathering & OSINT framework for phone numbers](https://github.com/sundowndev/phoneinfoga)
 
 ## .Net
 
