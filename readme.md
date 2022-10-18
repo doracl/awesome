@@ -229,6 +229,7 @@
 - [The Metadata Platform for the Modern Data Stack](https://github.com/datahub-project/datahub)
 - [Apache NiFi is an easy to use, powerful, and reliable system to process and distribute data](https://github.com/apache/nifi)
 - [Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines](https://github.com/kestra-io/kestra)
+- [dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.](https://github.com/dbt-labs/dbt-core)
 
 ## Api Server
 - [Parse Server is an open source backend that can be deployed to any infrastructure that can run Node.js](https://github.com/parse-community/parse-server)
