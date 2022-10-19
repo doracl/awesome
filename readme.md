@@ -231,6 +231,9 @@
 - [Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines](https://github.com/kestra-io/kestra)
 - [dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.](https://github.com/dbt-labs/dbt-core)
 
+## Metric 数据收集
+- [The plugin-driven server agent for collecting & reporting metrics.](https://github.com/influxdata/telegraf)
+
 ## Api Server
 - [Parse Server is an open source backend that can be deployed to any infrastructure that can run Node.js](https://github.com/parse-community/parse-server)
 - [Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT](https://github.com/kuzzleio/kuzzle)
