@@ -231,6 +231,7 @@
 - [Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines](https://github.com/kestra-io/kestra)
 - [dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.](https://github.com/dbt-labs/dbt-core)
 - [人人可用的开源数据可视化分析工具](https://github.com/dataease/dataease)
+- [Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right](https://github.com/open-metadata/OpenMetadata)
 
 ## Metric 数据收集
 - [The plugin-driven server agent for collecting & reporting metrics.](https://github.com/influxdata/telegraf)
