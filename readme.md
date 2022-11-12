@@ -232,6 +232,7 @@
 - [dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.](https://github.com/dbt-labs/dbt-core)
 - [人人可用的开源数据可视化分析工具](https://github.com/dataease/dataease)
 - [Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right](https://github.com/open-metadata/OpenMetadata)
+- [SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time)](https://github.com/apache/incubator-seatunnel)
 
 ## Metric 数据收集
 - [The plugin-driven server agent for collecting & reporting metrics.](https://github.com/influxdata/telegraf)
