@@ -124,6 +124,7 @@
 - [Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge](https://github.com/dapr/dapr)
 - [Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications](https://github.com/hashicorp/nomad)
+- [Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance](https://github.com/apache/shenyu)
 
 ##  Domain-driven design (DDD) and Event
 - [highly concurrent, distributed, and resilient message-driven applications on the JVM](https://github.com/akka/akka)
