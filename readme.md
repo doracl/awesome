@@ -287,6 +287,7 @@
 - [An annotation processor for generating type-safe bean mappers](https://github.com/mapstruct/mapstruct)
 - [从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等](https://github.com/doocs/source-code-hunter)
 - [JSON to JSON transformation library written in Java](https://github.com/bazaarvoice/jolt)
+- [PowerJob（原OhMyScheduler）是全新一代分布式调度与计算框架，能让您轻松完成作业的调度与繁杂任务的分布式计算](https://github.com/PowerJob/PowerJob)
 
 ## Go
 
