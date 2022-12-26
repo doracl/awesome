@@ -126,6 +126,7 @@
 - [Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications](https://github.com/hashicorp/nomad)
 - [Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance](https://github.com/apache/shenyu)
 - [Conductor is a platform created by Netflix to orchestrate workflows that span across microservices.](https://github.com/Netflix/conductor)
+- [Open Source Identity and Access Management For Modern Applications and Services](https://github.com/keycloak/keycloak)
 
 ##  Domain-driven design (DDD) and Event
 - [highly concurrent, distributed, and resilient message-driven applications on the JVM](https://github.com/akka/akka)
