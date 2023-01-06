@@ -55,6 +55,7 @@
 - [OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec](https://github.com/OpenAPITools/openapi-generator)
 - [Open Source Identity and Access Management For Modern Applications and Services](https://github.com/keycloak/keycloak)
 - [DoKit:一款面向泛前端产品研发全生命周期的效率平台](https://github.com/didi/DoKit)
+- [Alibaba Java Coding Guidelines pmd implements and IDE plugin](https://github.com/alibaba/p3c)
 
 ## Kubernetes
 
