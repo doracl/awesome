@@ -8,7 +8,7 @@
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-
+<span style="color:red">尽管在发布DW/BI系统时使用了技术方法，但技术充其量也就是达到目的的一种手段而已。因此，以及用于建立系统的技能不应该直接出现在顶层工作职责中</span>
 > 开发过程中发现或使用的工具、经验、坑
 
 ## 开发运维工具
