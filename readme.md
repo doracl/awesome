@@ -162,6 +162,7 @@
 - [Apache RocketMQ](https://github.com/apache/rocketmq)
 - [Streaming reference architecture for ETL with Kafka and Kafka-Connect](https://github.com/lensesio/stream-reactor)
 - [KnowStreaming:一站式云原生Kafka管控平台](https://github.com/didi/knowstreaming)
+- [Kafka Consumer Lag Checking](https://github.com/linkedin/Burrow)
 
 ## Flink 相关
 - [Ververica - Original Creators of Apache Flink (R)](https://github.com/ververica)
