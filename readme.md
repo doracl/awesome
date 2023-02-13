@@ -56,6 +56,7 @@
 - [DoKit:一款面向泛前端产品研发全生命周期的效率平台](https://github.com/didi/DoKit)
 - [Alibaba Java Coding Guidelines pmd implements and IDE plugin](https://github.com/alibaba/p3c)
 - [Terraform是一个开源的自动化基础设施配置管理工具。它可以通过代码的方式管理基础设施的配置](https://github.com/hashicorp/terraform)
+- [As the leading open source Customer Data Platform (CDP),数据收集](https://github.com/rudderlabs/rudder-server)
 
 ## Kubernetes
 
